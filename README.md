@@ -1,0 +1,1 @@
+Layout of a website about Coronavirus using simple HTML
